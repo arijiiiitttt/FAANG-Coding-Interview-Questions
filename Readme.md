@@ -9,7 +9,7 @@ Welcome to **Fang Question**! This project dives into intriguing questions with 
 - **Striver DSA Sheet** 📊: Properly solved and documented.  
 
 ## 🔧 Link to the Content  
-📚 **Notion Sheet**: [FANG Question Repository]()  
+📚 **Notion Sheet**: [FANG Question Repository](https://www.notion.so/My-Solved-Code-Repository-1facd6664e6280fba154c72101c03e70?source=copy_link)  
 
 ---
 
